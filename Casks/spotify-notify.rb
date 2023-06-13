@@ -1,6 +1,6 @@
 cask "spotify-notify" do
-  version "0.4.3"
-  sha256 "251085b08be2636393ebb590fea7c0b07fcadad42dd5989dedb6c95d5a2123cb"
+  version "0.4.4"
+  sha256 "f4c0b173c85bf48f64c6fbe43028395202e1b1d0c45e9ad32e07e71ea6a4c089"
 
   url "https://github.com/nahive/spotify-notify/releases/download/#{version}/Notify.app.zip"
   name "Spotify Notify"
