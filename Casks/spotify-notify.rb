@@ -7,7 +7,7 @@ cask "spotify-notify" do
   desc "Now-playing notifications for Spotify and Apple Music"
   homepage "https://github.com/nahive/spotify-notify"
 
-  depends_on macos: ">= :tahoe"
+  depends_on macos: :tahoe
 
   app "Notify.app"
 end
